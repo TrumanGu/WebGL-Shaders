@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+.player-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.canvas-inner {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#control-bar {
+    width: 100%;
+}
+#control-bar span {
+    margin-left: 30px;
+}
